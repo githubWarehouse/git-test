@@ -7,4 +7,9 @@ public class GitTest {
         System.out.println("hello Git");
         System.out.println("hello Git");
     }
+
+    public void test(){
+        int i = 10;
+        i+=100;
+    }
 }
